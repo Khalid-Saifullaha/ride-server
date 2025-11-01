@@ -4,7 +4,7 @@ A secure, scalable **backend API** for a ride-booking platform built with **Expr
 Supports **riders, drivers, and admins** with role-based access, ride management, and driver earnings tracking.
 
 --- 
-
+ 
 ## **Features** 
 
 ### **Authentication & Roles* 
