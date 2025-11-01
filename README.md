@@ -5,7 +5,7 @@ Supports **riders, drivers, and admins** with role-based access, ride management
 
 ---
 
-## **Features**
+## **Features** 
 
 ### **Authentication & Roles*
 
