@@ -7,7 +7,7 @@ Supports **riders, drivers, and admins** with role-based access, ride management
 
 ## **Features** 
 
-### **Authentication & Roles*
+### **Authentication & Roles* 
 
 - **JWT-based authentication**
 - **Roles:** `ADMIN`, `RIDER`, `DRIVER`
